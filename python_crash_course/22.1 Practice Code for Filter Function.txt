@@ -1,6 +1,6 @@
 Filter:
 
-#Practice 1
+#Practice 1 - to get list with all marks having marks greater than 60
 marks=[50,70,65,99,15,31,49]
 def student_a_grade(mark):
  return mark > 60
