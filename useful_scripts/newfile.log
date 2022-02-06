@@ -1,0 +1,61 @@
+2021-10-11 12:44:16,631 /
+2021-10-11 12:44:16,631 ############################################################################
+2021-10-11 12:44:16,632  Start running jobs in parallel, degree =2 
+2021-10-11 12:44:16,632 ############################################################################
+2021-10-11 12:44:16,632 //
+2021-10-11 12:44:16,632 Running command
+2021-10-11 12:44:16,632 Starting process with PID : [ls /home/hadoop/PyCharm/Python-Practice/useful_scripts/Runjob.py] 
+2021-10-11 12:44:16,640 Process started with PID : [5029] 
+2021-10-11 12:44:18,642 Starting process with PID : [ls /home/hadoop/PyCharm/Python-Practice/useful_scripts/tvbase.py] 
+2021-10-11 12:44:18,652 Process started with PID : [5031] 
+2021-10-11 12:44:18,652 Max process limit [2] reached!
+2021-10-11 12:44:18,652 Waiting for any process to complete...
+2021-10-11 12:44:18,653 Process [PID:5029] returned with status : [0] 
+2021-10-11 12:44:18,653 Removing completed process ...
+2021-10-11 12:44:18,653 Running process count [1] 
+2021-10-11 12:44:21,156 Starting process with PID : [ls /home/hadoop/PyCharm/Python-Practice/useful_scripts/Runjob.py] 
+2021-10-11 12:44:21,166 Process started with PID : [5033] 
+2021-10-11 12:44:21,166 Max process limit [2] reached!
+2021-10-11 12:44:21,166 Waiting for any process to complete...
+2021-10-11 12:44:21,166 Process [PID:5031] returned with status : [0] 
+2021-10-11 12:44:21,166 Removing completed process ...
+2021-10-11 12:44:21,167 Running process count [1] 
+2021-10-11 12:44:23,669 Starting process with PID : [ls /home/hadoop/PyCharm/Python-Practice/useful_scripts/tvbase1.py] 
+2021-10-11 12:44:23,674 Process started with PID : [5035] 
+2021-10-11 12:44:23,674 ERROR: = [ls: cannot access '/home/hadoop/PyCharm/Python-Practice/useful_scripts/tvbase1.py': No such file or directory]
+2021-10-11 12:44:23,674 Max process limit [2] reached!
+2021-10-11 12:44:23,674 Waiting for any process to complete...
+2021-10-11 12:44:23,675 Process [PID:5033] returned with status : [0] 
+2021-10-11 12:44:23,675 Removing completed process ...
+2021-10-11 12:44:23,675 Running process count [1] 
+2021-10-11 12:44:26,178 Starting process with PID : [ls /home/hadoop/PyCharm/Python-Practice/useful_scripts/Runjob.py] 
+2021-10-11 12:44:26,187 Process started with PID : [5037] 
+2021-10-11 12:44:26,187 Max process limit [2] reached!
+2021-10-11 12:44:26,188 Waiting for any process to complete...
+2021-10-11 12:44:26,188 Process [PID:5035] returned with status : [2] 
+2021-10-11 12:44:26,188 Removing completed process ...
+2021-10-11 12:44:26,188 Running process count [1] 
+2021-10-11 12:44:28,691 Starting process with PID : [ls /home/hadoop/PyCharm/Python-Practice/useful_scripts/tvbase.py] 
+2021-10-11 12:44:28,701 Process started with PID : [5039] 
+2021-10-11 12:44:28,701 Max process limit [2] reached!
+2021-10-11 12:44:28,701 Waiting for any process to complete...
+2021-10-11 12:44:28,701 Process [PID:5037] returned with status : [0] 
+2021-10-11 12:44:28,702 Removing completed process ...
+2021-10-11 12:44:28,702 Running process count [1] 
+2021-10-11 12:44:31,205 Starting process with PID : [ls /home/hadoop/PyCharm/Python-Practice/useful_scripts/Runjob.py] 
+2021-10-11 12:44:31,216 Process started with PID : [5041] 
+2021-10-11 12:44:31,216 Max process limit [2] reached!
+2021-10-11 12:44:31,216 Waiting for any process to complete...
+2021-10-11 12:44:31,216 Process [PID:5039] returned with status : [0] 
+2021-10-11 12:44:31,216 Removing completed process ...
+2021-10-11 12:44:31,217 Running process count [1] 
+2021-10-11 12:44:33,718 Starting process with PID : [ls /home/hadoop/PyCharm/Python-Practice/useful_scripts/tvbase.py] 
+2021-10-11 12:44:33,728 Process started with PID : [5043] 
+2021-10-11 12:44:33,728 Waiting for [2] running processes to complete...
+2021-10-11 12:44:33,729 Process [PID:5041] returned with status : [0] 
+2021-10-11 12:44:34,730 Process [PID:5043] returned with status : [0] 
+2021-10-11 12:44:35,732 /
+2021-10-11 12:44:35,733 ############################################################################
+2021-10-11 12:44:35,733  Status: {FAIL} 
+2021-10-11 12:44:35,734 ############################################################################
+2021-10-11 12:44:35,735 //
